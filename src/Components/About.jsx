@@ -159,7 +159,7 @@ export default function About() {
                 </div>
 
                 <div className="aboutPage__portrait">
-                    <img src="public/img1.png" alt="" />
+                    <img src="/img1.png" alt="" />
                 </div>
             </section>
 
