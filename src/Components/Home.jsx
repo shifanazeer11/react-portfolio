@@ -163,7 +163,7 @@ function Home() {
             <div className="card-bottom">
 
               <div className="profile-circle">
-                <img src="public/img1.png" alt="" />
+                <img src="/img1.png" alt="" />
               </div>
 
               <div>
